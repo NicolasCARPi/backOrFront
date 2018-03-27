@@ -42,7 +42,7 @@ def getMiddleLine(img):
 
 
 #folder = askdirectory()
-folder = '/srv/http/cellMeaner/mean-cells'
+folder = 'mean-cells'
 tifFiles = folder + os.sep + '*.tif'
 
 # create directory for output
